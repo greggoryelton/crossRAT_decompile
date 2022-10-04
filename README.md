@@ -13,3 +13,6 @@ For CrossRAT samples and in depth analysis check out: [JAMF Blog: Analyzing Cros
 To download a version of Jadx check out: [skylot/jadx](https://github.com/skylot/jadx)
 
 For more information on the Dark Caracal group check out: [Dark Caracal, Cyber-Espionage at a Global Scale](https://info.lookout.com/rs/051-ESQ-475/images/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf)
+
+## Disclaimer
+This repository contains code that if compiled could be malicious. Although some sanitization has been done (such as modifying C2 url's), proceed with caution when working and compiling the source files. 

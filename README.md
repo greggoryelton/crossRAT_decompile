@@ -8,6 +8,6 @@ Dark Caracal, designated as G0070 by Mitre is a threat group that has been attri
 ## Resources 
 For CrossRAT samples and in depth analysis check out: [JAMF Blog: Analyzing CrossRAT](https://www.jamf.com/blog/analyzing-crossrat/)
 
-To download a version of Jadx check out: [skylot/jadx] (https://github.com/skylot/jadx)
+To download a version of Jadx check out: [skylot/jadx](https://github.com/skylot/jadx)
 
 For more information on the Dark Caracal group check out: [Dark Caracal, Cyber-Espionage at a Global Scale](https://info.lookout.com/rs/051-ESQ-475/images/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf)

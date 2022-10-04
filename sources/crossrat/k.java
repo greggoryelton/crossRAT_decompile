@@ -19,7 +19,7 @@ public final class k {
     public static boolean f41a = false;
 
     /* renamed from: b */
-    public static String C2_URL = "flexberry.com";
+    public static String C2_URL = "flexberry[.]com";
 
     /* renamed from: c */
     public static int C2_PORT = 2223;

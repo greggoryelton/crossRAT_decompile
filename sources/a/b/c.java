@@ -2,6 +2,7 @@ package a.b;
 
 import java.util.Iterator;
 
+// This class does some enumeration on Linux OS'
 /* loaded from: hmar6.jar:a/b/c.class */
 public enum c {
     ALPINE("Alpine Linux", "alpine", new f("/etc/arch-release")),
@@ -27,7 +28,7 @@ public enum c {
         private String f7b;
 
         {
-            this.f6a = strArr;
+            this.f6a = r4;
             this.f7b = r5;
         }
 

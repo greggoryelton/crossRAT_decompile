@@ -1,5 +1,6 @@
 package a.c;
 
+// This class does some OS X enumeration
 /* loaded from: hmar6.jar:a/c/c.class */
 public enum c {
     CHEETAH("Cheetah", "10.0", true),

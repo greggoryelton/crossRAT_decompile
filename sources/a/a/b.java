@@ -2,6 +2,7 @@ package a.a;
 
 import crossrat.e;
 
+// This class looks like it does enumeration for BSD flavored operating systems.
 /* loaded from: hmar6.jar:a/a/b.class */
 public enum b {
     FREEBS("FreeBSD", new String[0]),

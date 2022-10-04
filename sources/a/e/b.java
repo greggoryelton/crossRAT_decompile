@@ -1,5 +1,6 @@
 package a.e;
 
+// This class does Windows OS enumeration
 /* loaded from: hmar6.jar:a/e/b.class */
 public enum b {
     UNKNOWN("Unknown Windows"),

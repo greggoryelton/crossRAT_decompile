@@ -8,7 +8,7 @@ Dark Caracal designated as G0070 by Mitre, is a threat group that has been attri
 The repository serves as repo for analyzing the CrossRAT jar based on previous analysis listed below. 
 
 # Findings 
-TODO once more analysis is done
+TODO once more analysis is done.
 
 # Resources 
 For CrossRAT samples and in depth analysis check out: [JAMF Blog: Analyzing CrossRAT](https://www.jamf.com/blog/analyzing-crossrat/)

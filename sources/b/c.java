@@ -25,7 +25,7 @@ public final class c extends a {
         if (!b().exists()) {
             b().mkdirs();
         }
-        PrintWriter printWriter = new PrintWriter(new FileWriter(new File(b(), String.valueOf(this.f27b) + ".plist")));
+        PrintWriter printWriter = new PrintWriter(new FileWriter(new File(b(), String.valueOf(this.f27b) + ".plist"))); //f27b looks like its some form of username
         printWriter.println("<plist version=\"1.0\">");
         printWriter.println("<dict>");
         printWriter.println("\t<key>Label</key>");

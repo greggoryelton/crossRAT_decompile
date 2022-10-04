@@ -2,7 +2,7 @@
 This repository contains a JADX decompilation of the CrossRAT jar file that is used by the threat group Dark Caracal, to infect Windows, macOS and Linux users. Initial decompilation was conducted on a Ubuntu 22.04 machine using the Jadx-GUI tool. 
 
 ## Dark Caracal 
-Dark Caracal, designated as G0070 by Mitre is a threat group that has been attributed to a Lebanese intelligence agency. Dark Caracal uses this custom made RAT written in Java for attacking its victims typically through having the user run a malicious document file. Dark Caracal also has conducted a large Android malware campaign by using a suite a trojanized applications, this malware is known as Pallas. 
+Dark Caracal designated as G0070 by Mitre, is a threat group that has been attributed to a Lebanese intelligence agency. Dark Caracal uses this custom made RAT written in Java for attacking its victims typically through having the user run a malicious document file. Dark Caracal also has conducted a large Android malware campaign by using a suite a trojanized applications, this malware is known as Pallas. 
 
 # About
 The repository serves as repo for analyzing the CrossRAT jar based on previous analysis listed below. 
